@@ -1,9 +1,7 @@
 body{
-    background: #6a11cb;
-    
-    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
-   
-    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+    background: -webkit-linear-gradient(to right, rgb(206, 173, 243), rgb(134, 171, 235));
+    background: linear-gradient(to right, rgba(206, 173, 243), rgba(134, 171, 235))
+        
 }
 a:hover{
     font-weight: bold;
